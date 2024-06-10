@@ -7,3 +7,11 @@ password 9696553148
 userside
 username  surya
 password  8423562672@s
+####push on github###
+echo "# x" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main5
+git remote add originc https://github.com/Chhaya9696/x.git
+git push -u origin main5
