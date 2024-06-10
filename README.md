@@ -13,5 +13,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main5
-git remote add originc https://github.com/Chhaya9696/x.git
+git remote add originc https://github.com/Chhaya9696/ecommercewebsite.git
 git push -u origin main5
